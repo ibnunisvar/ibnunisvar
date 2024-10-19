@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 Welcome Everyone!
 
-I'm Sarjoon Ibnunisvar, an undergradiuate student. 
+I'm Sarjoon Ibnunisvar, an fresh graduate from faculty of IT, University of Moratuwa. 
 
 I'm currently learning languages such as Java, Javascript and frameworks such as Angular and Springboot.
